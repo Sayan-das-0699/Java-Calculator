@@ -18,3 +18,5 @@ Concepts used:
 ~ User input handling
 
 Built while learning Java basics.
+
+* Output = (Calculator_output.png)
